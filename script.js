@@ -7,8 +7,8 @@ const paragraphs = [
     "Gregory, do you see the small vent on the floor? Have you ever heard of among us, Gregory? You need to vent. I know it will be hard for you to be sus but I know you can do it Gregory.",
     "Want a break from the ads? If you tap now to watch a short video, you will receive 30 minutes of ad free music.",
     "I like reading difficult and abstruse books, and seeing others scratch their heads in confusion. I am only joking. I don't delight in the misery of others, and rarely do I encounter a book that is difficult for me.",
-    "PL/SQL is Oracle's procedural language extension to SQL. PL/SQL allows you to mix SQL statements with procedural constructs. PL/SQL provides the capability to define and execute PL/SQL program units such as procedures, functions, and packages.",
-    "JavaScript is a dynamic programming language that's used for web development, in web applications, for game development, and lots more. It allows you to implement dynamic features on web pages that cannot be done with only HTML and CSS.",
+    "PL/SQL is a procedural language of Oracle extension to SQL. PL/SQL allows you to mix SQL statements with procedural constructs. PL/SQL provides the capability to define and execute PL/SQL program units such as procedures, functions, and packages.",
+    "JavaScript is a dynamic programming language that is used for web development, in web applications, for game development, and lots more. It allows you to implement dynamic features on web pages that cannot be done with only HTML and CSS.",
     "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. "
 ]
 
