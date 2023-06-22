@@ -1,5 +1,5 @@
 const paragraphs = [
-    "Gregory, do you see the small vent on the floor? have you ever heard of among us, Gregory? You need to vent. I know it will be hard for you to be sus but i know you can do it Gregory.",
+    "Gregory, do you see the small vent on the floor? Have you ever heard of among us, Gregory? You need to vent. I know it will be hard for you to be sus but I know you can do it Gregory.",
     "Want a break from the ads? If you tap now to watch a short video, you will receive 30 minutes of ad free music.",
     "I like reading difficult and abstruse books, and seeing others scratch their heads in confusion. I am only joking. I do not delight in the misery of others, and rarely do I encounter a book that is difficult for me.",
     "If you ask Rick Astley for a copy of the movie “UP”, he cannot give you it as he can never give you up. But, by doing that, he is letting you down, and thus, is creating something known as the Astley Paradox."
