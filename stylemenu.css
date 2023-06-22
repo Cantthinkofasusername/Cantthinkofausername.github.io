@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    margin-top: 17px;
+    display: flex;
+    padding: 12px 0;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 37px;
+    background: #1e1e1e;
+    border-radius: 10;
+;
+}
+
+body {
+    display: flex;
+    padding: 12px 0;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: burlywood;
+    border-radius: 10px;
+    flex-wrap: wrap;
+}
+
+.start {
+    margin-top: 17px;
+    display: flex;
+    padding: 12px 0;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 35px;
+    background: #1e1e1e;
+    text-decoration: none;
+}
+
+.start button {
+    outline: none;
+    border: none;
+    width: 105px;
+    color: burlywood;
+    padding: 8px 0;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 15px;
+    border: 3px solid burlywood;
+    background: none;
+    transition: transform 0.2s ease;
+}
+.start button:active {
+    transform: scale(0.89);
+}
+.start button:hover {
+    background: #FFFFFF;
+}
+
+.instructions {
+    margin-top: 17px;
+    display: flex;
+    padding: 12px 0;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 35px;
+    background: #1e1e1e;
+    border-bottom-right-radius: 10;
+    border-top-right-radius: 10;
+    text-decoration: none;
+}
+
+.instructions button {
+    outline: none;
+    border: none;
+    width: 105px;
+    color: burlywood;
+    padding: 8px 0;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 15px;
+    border: 3px solid burlywood;
+    background: none;
+    transition: transform 0.2s ease;
+}
+.instructions button:active {
+    transform: scale(0.89);
+}
+.instructions button:hover {
+    background: #FFFFFF;
+}
