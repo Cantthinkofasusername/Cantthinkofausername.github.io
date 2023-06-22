@@ -1,0 +1,42 @@
+.back button {
+    outline: none;
+    border: none;
+    width: 105px;
+    color: burlywood;
+    padding: 8px 0;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 15px;
+    border: 3px solid #ca4754;
+    background: #1e1e1e;
+    transition: transform 0.2s ease;
+}
+.back button:active {
+    transform: scale(0.89);
+}
+.back button:hover {
+    background: #FFFFFF;
+}
+
+body {
+    align-items:baseline;
+    justify-content:baseline;
+    min-height: 100vh;
+    background:burlywood;
+}
+
+.instruct {
+    color: burlywood;
+    background-color: #1e1e1e;
+    padding: 12px 0;
+    text-align: center;
+}
+
+.terms {
+    color: burlywood;
+    background-color: #1e1e1e;
+    padding: 12px 0;
+    text-align: center;
+}
+
